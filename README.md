@@ -56,10 +56,10 @@ Sou **Pedro Coutinho da Silva** (Pedro-Coutinho2612), estudante de **Ciência da
 
 <div align="center">
 
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedro-Coutinho2612&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Coutinho2612&layout=compact&theme=tokyonight&hide_border=true)
-
+GitHub Stats
+Pedro-Coutinho2612
+Linguagens mais usadas
+C · Python · Django
 </div>
 
 ---
